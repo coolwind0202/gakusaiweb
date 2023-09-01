@@ -13,6 +13,7 @@
     "new-component": "hygen generator component"
   },
   "dependencies": {
+    "@mui/material": "^5.14.7",
     "@types/luxon": "^3.3.1",
     "clsx": "^2.0.0",
     "luxon": "^3.4.2",
@@ -25,6 +26,7 @@
     "@storybook/addon-interactions": "7.4.0",
     "@storybook/addon-links": "7.4.0",
     "@storybook/addon-onboarding": "1.0.8",
+    "@storybook/addon-themes": "^7.4.0",
     "@storybook/blocks": "7.4.0",
     "@storybook/react": "7.4.0",
     "@storybook/react-vite": "7.4.0",
