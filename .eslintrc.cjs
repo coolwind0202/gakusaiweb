@@ -29,6 +29,10 @@ module.exports = {
             from: "node_modules/@mui/material",
             target: "./src/features/!(ui|theme)/**/*",
           },
+          {
+            from: "./src/features/!(ui|theme)/**/*",
+            target: "./src/features/(ui|theme)/**/*",
+          },
         ],
       },
     ],
