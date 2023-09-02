@@ -1,0 +1,1 @@
+export { IconBriefCard } from './IconBriefCard';
