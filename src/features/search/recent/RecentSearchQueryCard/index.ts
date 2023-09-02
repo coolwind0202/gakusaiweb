@@ -1,0 +1,1 @@
+export { RecentSearchQueryCard } from './RecentSearchQueryCard';
